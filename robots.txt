@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /playbook-download
+Disallow: /thanks
+
+Sitemap: https://retoldly.com/sitemap.xml
